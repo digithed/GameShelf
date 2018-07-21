@@ -9,3 +9,5 @@ Use nodemon to initalize the javascript API while in the "API" folder like so:
 also intialize the React wile in the "src" folder webpage like so:
 
 ```npm start```
+
+I am open to any suggestions of how to improve this project!
