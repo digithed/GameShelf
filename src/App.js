@@ -30,22 +30,6 @@ class App extends React.Component {
       console.log(err);
     });
 
-    
-    
-    console.log(api_post);
-
-  //   if (title && Console) {
-
-  //   this.setState({
-  //    title: title,
-  //    console: Console
-  //   });
-  // } else {
-  //   this.setState({
-  //   title: undefined,
-  //   console: undefined
-  // });
-
   }
 
 
