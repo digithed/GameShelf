@@ -6,7 +6,7 @@ Use nodemon to initalize the javascript API while in the "API" folder like so:
 
 ```nodemon index.js```
 
-also intialize the React wile in the "src" folder webpage like so:
+also intialize the React webpage while in the "src" folder like so:
 
 ```npm start```
 
